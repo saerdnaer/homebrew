@@ -1,25 +1,13 @@
-Homebrew
-========
-Features, usage and installation instructions are [summarized on the homepage][home].
+# homebrew-osmium
 
-What Packages Are Available?
-----------------------------
-1. You can [browse the Formula directory on GitHub][formula].
-2. Or type `brew search` for a list.
-3. Or run `brew server` to browse packages off of a local web server.
-4. Or visit [braumeister.org][braumeister] to browse packages online.
+## Usage
 
-More Documentation
-------------------
-`brew help` or `man brew` or check our [wiki][].
+### Download formulas
 
-Who Are You?
-------------
-I'm [Max Howell][mxcl] and I'm a splendid chap.
+First, tap homebrew-osmium.
 
+    $ brew tap saerdnaer/osmium
 
-[home]:http://mxcl.github.com/homebrew
-[wiki]:http://wiki.github.com/mxcl/homebrew
-[mxcl]:http://twitter.com/mxcl
-[formula]:http://github.com/mxcl/homebrew/tree/master/Library/Formula/
-[braumeister]:http://braumeister.org
+### Install
+
+    $ brew install osmium
