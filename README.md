@@ -2,9 +2,7 @@
 
 ## Usage
 
-### Download formulas
-
-First, tap homebrew-osmium.
+### Download formula
 
     $ brew tap saerdnaer/osmium
 
